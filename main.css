@@ -46,7 +46,8 @@ body {
 }
 
 textarea {
-  font-size: 1.125rem;
+  font-size: 1rem;
+  padding: 1rem;
   color: var(--text-color-light);
   resize: none;
   border: none;
