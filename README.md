@@ -12,4 +12,4 @@ Wireframing for the site was done on Figma.
 The setup is pretty minimal. 
 It loads React in a script tag, and uses [Marked.js](https://github.com/markedjs/marked) for parsing the markdown. 
 
-You can clone the repository or download as ZIP and double click the index.html file!
+You can clone the repository, `cd` into it and start a [live-server](https://github.com/tapio/live-server). 
