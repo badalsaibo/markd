@@ -2,7 +2,7 @@
 ![](./img/Markd.png)
 
 ## Live Demo 🚀
-[heydante.github.io/markd](https://heydante.github.io/markd/)
+[badalsaibo.github.io/markd](https://badalsaibo.github.io/markd/)
 
 ## Introduction 🗒
 M A R K D is a pretty simple markdown preview I created on React to learn about shared state.
